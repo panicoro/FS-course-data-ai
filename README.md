@@ -1,1 +1,1 @@
-# FS_data_science_ia
+# Curso Análisis de Datos y Aprendizaje Automático 2024
